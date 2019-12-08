@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/xwafflecakex/Airlines_Direct/static/css/main.d1b05096.chunk.css",
-    "main.js": "/xwafflecakex/Airlines_Direct/static/js/main.7c0b5920.chunk.js",
-    "main.js.map": "/xwafflecakex/Airlines_Direct/static/js/main.7c0b5920.chunk.js.map",
-    "runtime-main.js": "/xwafflecakex/Airlines_Direct/static/js/runtime-main.6186be5f.js",
-    "runtime-main.js.map": "/xwafflecakex/Airlines_Direct/static/js/runtime-main.6186be5f.js.map",
-    "static/js/2.e4da86d1.chunk.js": "/xwafflecakex/Airlines_Direct/static/js/2.e4da86d1.chunk.js",
-    "static/js/2.e4da86d1.chunk.js.map": "/xwafflecakex/Airlines_Direct/static/js/2.e4da86d1.chunk.js.map",
-    "index.html": "/xwafflecakex/Airlines_Direct/index.html",
-    "precache-manifest.450eb67076edee871d9fb39f57848e8d.js": "/xwafflecakex/Airlines_Direct/precache-manifest.450eb67076edee871d9fb39f57848e8d.js",
-    "service-worker.js": "/xwafflecakex/Airlines_Direct/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/xwafflecakex/Airlines_Direct/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.e4da86d1.chunk.js.LICENSE": "/xwafflecakex/Airlines_Direct/static/js/2.e4da86d1.chunk.js.LICENSE",
-    "static/media/logo.svg": "/xwafflecakex/Airlines_Direct/static/media/logo.5d5d9eef.svg"
+    "main.css": "/Airlines_Direct/static/css/main.d1b05096.chunk.css",
+    "main.js": "/Airlines_Direct/static/js/main.4bafd37e.chunk.js",
+    "main.js.map": "/Airlines_Direct/static/js/main.4bafd37e.chunk.js.map",
+    "runtime-main.js": "/Airlines_Direct/static/js/runtime-main.e25a8d26.js",
+    "runtime-main.js.map": "/Airlines_Direct/static/js/runtime-main.e25a8d26.js.map",
+    "static/js/2.e4da86d1.chunk.js": "/Airlines_Direct/static/js/2.e4da86d1.chunk.js",
+    "static/js/2.e4da86d1.chunk.js.map": "/Airlines_Direct/static/js/2.e4da86d1.chunk.js.map",
+    "index.html": "/Airlines_Direct/index.html",
+    "precache-manifest.3ca3294005768734c41b1f31b5361385.js": "/Airlines_Direct/precache-manifest.3ca3294005768734c41b1f31b5361385.js",
+    "service-worker.js": "/Airlines_Direct/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/Airlines_Direct/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.e4da86d1.chunk.js.LICENSE": "/Airlines_Direct/static/js/2.e4da86d1.chunk.js.LICENSE",
+    "static/media/logo.svg": "/Airlines_Direct/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6186be5f.js",
+    "static/js/runtime-main.e25a8d26.js",
     "static/js/2.e4da86d1.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.7c0b5920.chunk.js"
+    "static/js/main.4bafd37e.chunk.js"
   ]
 }
